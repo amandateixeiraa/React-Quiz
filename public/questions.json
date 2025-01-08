@@ -1,0 +1,75 @@
+{
+    "questions":[
+        {
+            "question": "The cute guy you've been talking to at the bar offers to buy you a drink. You tell him you want a...", 
+            "options": ["A) Sex on the Beach.", "B) Cosmopolitan", "C)Martini", "D) Whiskey on the rocks" ]
+
+        },
+        {
+            "question": "What’s your ideal date night?", 
+            "options": ["A) A fancy dinner at a trendy restaurant", "B) A cozy night in with takeout and a movie", "C) A fun night out at a club or bar", "D) A cultural outing like a gallery opening or a play"]
+
+        },
+        {
+            "question": "How do you handle a breakup?", 
+            "options": ["A) Cry it out and then hit the town", "B) Focus on self-care and reflection", "C) Go out with friends and find someone new", "D) Seek closure and have a heart-to-heart"]
+
+        },
+        {
+            "question": "What’s your go-to fashion style?", 
+            "options": ["A) Chic and polished", "B) Comfortable and laid-back", "C) Trendy and bold", "D) Eclectic and artistic"]
+
+        }, 
+        {
+            "question": "What’s your relationship philosophy?",  
+            "options": ["A) Love is worth the risk, go for it!", "B) Better to take it slow and steady", "C) Keep it fun and lighthearted", "D) Seek deep emotional connection"]
+
+        },
+        {
+            "question": "How do you feel about commitment?", 
+            "options": ["A) Excited about the possibilities", "B) Cautious and thoughtful", "C) Enjoying the freedom of being single", "D) Ready for a serious relationship"]
+
+        },
+        {
+            "question": "What’s your idea of self-care?", 
+            "options": ["A) A luxurious spa days", "B) Reading a good book at home", "C) A night out with friends", "D) Trying out a new hobby"]
+
+        },
+        {
+            "question": "How do you handle conflict in friendships?", 
+            "options": ["A) Directly confront the issue", "B) Avoid it until it blows over", "C) Talk it out over drinks", "D) Write a heartfelt letter"]
+
+        },
+        {
+            "question": "How important is your social life?", 
+            "options": ["A) Very important, I thrive on social interactions", "B) I enjoy it, but I need my alone time", "C) I love having a wide circle of friends", "D) A few close friends are all I need"]
+
+        },
+        {
+            "question": "What’s your take on marriage?",
+            "options": ["A) It’s a beautiful goal", "B) It’s just a piece of paper", "C) I’m open to it, but not in a rush", "D) It depends on the relationship"]
+
+        },
+        {
+            "question": "How do you like to celebrate milestones?",
+            "options": ["A) Throw a big party", "B) Have an intimate dinner with loved ones", "C) Go on a spontaneous trip", "D) Create a special memory or experience"]
+
+        },
+        {
+            "question": "What’s your approach to fashion?", 
+            "options": ["A) Follow the latest trends", "B) Dress for comfort first", "C) Experiment with different styles", "D) Wear what makes you feel unique"]
+
+        },
+        {
+            "question": "How do you view your friendships?", 
+            "options": ["A) As a priority in my life", "B) Important, but not always at the forefront", "C) Fun and lively, full of adventures", "D) Deep and meaningful connections"]
+
+        },
+        {
+            "question": "What’s your favorite type of romantic story?", 
+            "options": ["A) A whirlwind romance", "B) A slow-burn love story", "C) A fun, casual fling", "D) A complex, emotionally charged relationship"]
+
+        }
+    ]
+}
+
