@@ -7,7 +7,7 @@ import ThirdPage from './page/ThirdPage/ThirdPage';
 
 function App(){
   return(
-    <Router>
+    <Router basename="/React-Quiz">
       <Routes>
         <Route path="/" element={<FirstPage />}></Route>
         <Route path="/secondpage" element={<SecondPage/>}></Route>
