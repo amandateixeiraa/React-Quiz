@@ -16,8 +16,9 @@ function Question() {
 
     // Function to fetch questions from a JSON file
     const fetchData = async () => {
+        const baseUrl = import.meta.env.VITE_BASE_URL; // Access the environment variable
         try {
-            const response = await fetch(`${process.env.PUBLIC_URL}/questions.json`); // Fetch questions
+            const response = await fetch(`${baseUrl}questions.json`); // Fetch questions
             if (!response.ok) {
                 throw new Error('Response was not ok'); // Handle fetch errors
             }
