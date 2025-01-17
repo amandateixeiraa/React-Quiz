@@ -9,7 +9,7 @@ html{
 body {
   background: 
     linear-gradient(to right, rgb(240, 25, 168), rgb(240, 123, 201), rgb(228, 108, 168), rgb(224, 224, 111), rgb(228, 186, 70), rgb(231, 96, 12), rgb(231, 96, 12), rgb(204, 0, 126), rgb(14, 12, 12), rgb(4, 4, 44), rgb(18, 18, 126), rgb(59, 16, 204), rgb(110, 7, 110)), 
-    url('assets/nnnoise1.svg');
+    url('./assets/nnnoise1.svg');
     background-blend-mode: overlay;
     height: 100%;
     background-size: cover;
